@@ -325,9 +325,10 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👥 Equipe
 
-- **Frontend**: Felipe
-- **Backend**: [Contribuidores]
-- **Design**: [Contribuidores]
+- **Dimitri `(Líder de Projeto)`**: Backend, DevOps
+- **Felipe**: Design, Frontend
+- **Kawan**: Backend, QA
+- **Paulo**: QA, DevOps
 
 ## 📞 Contato
 
@@ -337,8 +338,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 🎯 Roadmap
 
 ### Versão 2.0 (Próxima Release)
-- [ ] Sistema de chat em tempo real (WebSockets)
-- [ ] Notificações push
 - [ ] Sistema de avaliações de usuários
 - [ ] Compartilhamento em redes sociais
 - [ ] Integração com mapas para localização
